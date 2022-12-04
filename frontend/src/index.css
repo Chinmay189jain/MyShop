@@ -1,0 +1,73 @@
+main{
+  min-height: 80vh;
+}
+
+/* Nav Bar */
+.nav-icon{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.nav-head{
+ font-size: 2rem;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navlogo{
+  width: 50px;
+  margin-right: 10px;
+}
+
+/* Rating */
+.rating span{
+  margin: 0.1rem;
+}
+h4{
+  margin-top: 1rem;
+}
+
+/* Product Description */
+.addCart{
+ margin-top: 1%;
+ margin-left: 4%;
+}
+.cartbutton{
+ width: 100%;
+}
+.backbutton{
+  margin-bottom: 3%;
+  margin-top: 10px;
+  color: rgb(92, 91, 91);
+}
+
+/* Media Queries */
+@media (max-width: 300px) {
+  .navlogo{
+      width: 40px;
+      margin-right: 10px;
+  }
+  .nav-head{
+      font-size: 1.8rem;
+  }
+}
+@media (max-width: 767px) {
+  .addCart{
+      margin-top: 8%;
+      margin-left: 0%;
+  }
+  .prodImage{
+      margin-top: 5%;
+  }
+}
+
+h3 {
+  padding: 1rem 0;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
