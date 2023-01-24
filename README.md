@@ -1,5 +1,4 @@
 # MyShop
-## Output : [Website Link](https://myshop.up.railway.app/)
 
 ## <ins>Description:</ins>
 ### It is a shopping website which maintains user profile with orders, stored items in a cart, contains checkout process (shipping, payment method, etc). It also have a admin account which manage product, users and order by user's. Admin can also mark as deliverd for orders.
